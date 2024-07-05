@@ -62,4 +62,12 @@ I am a highly motivated individual with a passion for continued learning. I love
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
  </p>
 
+ # Before you go how about a little Humor?
+
+ ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
+
+ # Get to know me
+
+ I feel like music is a great way to get a little insight into someone, here's what I've been listening to recently...
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=112298241)
