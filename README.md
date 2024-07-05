@@ -1,3 +1,5 @@
+![Profile Banner](untitled-1.jpg)
+
 # Jaimie Hemmings
 
 ## Full Stack Web Developer
