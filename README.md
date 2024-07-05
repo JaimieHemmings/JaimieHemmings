@@ -1,4 +1,4 @@
-![Profile Banner](untitled-1.jpg)
+![Profile Banner](Untitled-1.jpg)
 
 # Jaimie Hemmings
 
