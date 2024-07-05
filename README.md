@@ -19,4 +19,12 @@ I am a highly motivated individual with a passion for continued learning. I love
   />
 </a>
 
+# My Tech Stack
+
+** I'm comfortable with... **
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img alt="Css" src="https://img.shields.io/badge/css%203-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=112298241)
