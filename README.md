@@ -12,8 +12,11 @@ I am a highly motivated individual with a passion for continued learning. I love
 
 # Contact Me
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jaimie-hemmings-379786271/)
-
-
+<a href="https://www.linkedin.com/in/jaimie-hemmings-379786271/">
+  <img
+    alt="Linkedin" target="_blank" rel="noopener noreferrer"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=112298241)
