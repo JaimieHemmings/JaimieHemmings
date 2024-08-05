@@ -2,6 +2,16 @@
 
 # Jaimie Hemmings
 
+## Hackathons
+
+In July 2024 I participated in the Proud Coders hackathon organised by Code Institute. As part of a small team we were tasked with creating a website that addresses a real world need by the LGBTQ community. My team and I decided to make an informative website that helps educate on the terms used by the community and their history. Alongside this we developed a small quiz so users could test their knowledge. For this project we ended up getting 2nd place.
+
+![Hackathon badge for 2nd place](pride-hackathon-badge.png)
+
+[View the Repo Here](https://github.com/Declan444/24-7-hackathon-team9)
+
+[Access the final product here](https://declan444.github.io/24-7-hackathon-team9/)
+
 ## Full Stack Web Developer
 
 ### About Me 👋
@@ -23,7 +33,7 @@ I am a highly motivated individual with a passion for continued learning. I love
 
 # My Tech Stack
 
-* I'm comfortable with...
+- I'm comfortable with...
 
 <p dir="auto">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -40,7 +50,7 @@ I am a highly motivated individual with a passion for continued learning. I love
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 </p>
 
-* I'm continuing to learn...
+- I'm continuing to learn...
 
 <p dir="auto">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -49,14 +59,14 @@ I am a highly motivated individual with a passion for continued learning. I love
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-* Automated Testing
+- Automated Testing
 
 <p dir="auto">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img alt="Coverage" src="https://img.shields.io/badge/coverage-2980b9?logo=coverage&logoColor=white&style=for-the-badge" />
 </p>
 
-* Databases...
+- Databases...
 
 <p dir="auto">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
@@ -65,12 +75,12 @@ I am a highly motivated individual with a passion for continued learning. I love
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
  </p>
 
- # Before you go how about a little Humor?
+# Before you go how about a little Humor?
 
- ![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60') 
+![Jokes Card](https://readme-jokes.vercel.app/api/ 'theme=merko&margin-w=60')
 
- # Get to know me
+# Get to know me
 
- I feel like music is a great way to get a little insight into someone, here's what I've been listening to recently...
+I feel like music is a great way to get a little insight into someone, here's what I've been listening to recently...
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=112298241)
