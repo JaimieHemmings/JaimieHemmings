@@ -2,12 +2,6 @@
 
 # Jaimie Hemmings
 
-## Hackathons
-
-| July 2024 - Proud Coders     | I participated in the Code Institute Hackathon themed around the LGBTQ community. Tasked with identifying and contributing to the resolution of a real world problem faced by the community. We were randomly assigned to groups of between 4 and 6 individuals in size. My team and I decided to focus on addressing some of the misconceptions often faced by members of the community and the history of the community. Alongside this we also developed a small interactive quiz for users to test their knowledge after reading the educational material on the site. [Badge Accreditation](https://api.eu.badgr.io/public/assertions/InW-WnD_QG-fHYtmsBkTag?identity__email=jwarbz%40gmail.com) - [View Repo](https://github.com/Declan444/24-7-hackathon-team9) | ![Hackathon badge for 2nd place](pride-hackathon-badge.png) | **2nd Place** |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------|
-| August 2024 - Pixel Pioneers | Another hackathon organised by Code Institute, this time themed around retro games. My team and I decided to make a duck hunt inspire arcade click shooter. This was a great experience for me as I got to dive in and explore the Canvas element in much greater details than I had before. We had several game features that had to be removed from the final product as we began to realise the scope of what was involved in such a short time frame but I still thoroughly enjoyed the experience of working with my team. [Badge Accreditation](https://api.eu.badgr.io/public/assertions/iv6HyCmrQFW4x8ivRWYHZA?identity__email=jwarbz%40gmail.com) - [View Repo](https://github.com/olliesharp5/august-hackathon-team1)                                            | ![Hackathon Badge for 2nd Place](pride-hackathon-badge.png) | **2nd Place** |
-
 ## Full Stack Web Developer
 
 ### About Me 👋
@@ -18,7 +12,7 @@ I have several years experience working front end development at various Web Dev
 
 I am a highly motivated individual with a passion for continued learning. I love helping organizations solve complex and challenging real-world problems using innovative web applications and tech-based solutions.
 
-# Contact Me
+### Contact Me
 
 <a href="https://www.linkedin.com/in/jaimie-hemmings-379786271/">
   <img
@@ -26,6 +20,13 @@ I am a highly motivated individual with a passion for continued learning. I love
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+
+## Hackathons
+
+| July 2024 - Proud Coders     | I participated in the Code Institute Hackathon themed around the LGBTQ community. Tasked with identifying and contributing to the resolution of a real world problem faced by the community. We were randomly assigned to groups of between 4 and 6 individuals in size. My team and I decided to focus on addressing some of the misconceptions often faced by members of the community and the history of the community. Alongside this we also developed a small interactive quiz for users to test their knowledge after reading the educational material on the site. [Badge Accreditation](https://api.eu.badgr.io/public/assertions/InW-WnD_QG-fHYtmsBkTag?identity__email=jwarbz%40gmail.com) - [View Repo](https://github.com/Declan444/24-7-hackathon-team9) | ![Hackathon badge for 2nd place](pride-hackathon-badge.png) | **2nd Place** |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------|
+| August 2024 - Pixel Pioneers | Another hackathon organised by Code Institute, this time themed around retro games. My team and I decided to make a duck hunt inspire arcade click shooter. This was a great experience for me as I got to dive in and explore the Canvas element in much greater details than I had before. We had several game features that had to be removed from the final product as we began to realise the scope of what was involved in such a short time frame but I still thoroughly enjoyed the experience of working with my team. [Badge Accreditation](https://api.eu.badgr.io/public/assertions/iv6HyCmrQFW4x8ivRWYHZA?identity__email=jwarbz%40gmail.com) - [View Repo](https://github.com/olliesharp5/august-hackathon-team1)                                            | ![Hackathon Badge for 2nd Place](pride-hackathon-badge.png) | **2nd Place** |
+
 
 # My Tech Stack
 
