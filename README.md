@@ -8,10 +8,6 @@
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------|
 | August 2024 - Pixel Pioneers | Another hackathon organised by Code Institute, this time themed around retro games. My team and I decided to make a duck hunt inspire arcade click shooter. This was a great experience for me as I got to dive in and explore the Canvas element in much greater details than I had before. We had several game features that had to be removed from the final product as we began to realise the scope of what was involved in such a short time frame but I still thoroughly enjoyed the experience of working with my team. [Badge Accreditation](https://api.eu.badgr.io/public/assertions/iv6HyCmrQFW4x8ivRWYHZA?identity__email=jwarbz%40gmail.com) - [View Repo](https://github.com/olliesharp5/august-hackathon-team1)                                            | ![Hackathon Badge for 2nd Place](pride-hackathon-badge.png) | **2nd Place** |
 
-[View the Repo Here](https://github.com/Declan444/24-7-hackathon-team9)
-
-[Access the final product here](https://declan444.github.io/24-7-hackathon-team9/)
-
 ## Full Stack Web Developer
 
 ### About Me 👋
